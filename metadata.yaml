@@ -1,0 +1,48 @@
+_repo: Els-Deu-MilAnd-Vida-D-artaxerxes-Per-Plutarc_19664
+_version: 0.1.0
+alternative_title: Anabasis. Catalan
+contributor:
+  translator:
+    agent_name: Riba, Carles
+    alias: Bracons, Carlos Riba
+    birthdate: 1893
+    deathdate: 1959
+    gutenberg_agent_id: '8804'
+    url: http://www.gutenberg.org/2009/agents/8804
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+  - agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2006-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19664'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Artaxerxes I, King of Persia, -425 B.C. or 424 B.C.'
+- !lcsh 'Cyrus, the Younger, approximately 423 B.C.-401 B.C.'
+- !lcc 'PA'
+- !lcsh 'Greece -- History -- Expedition of Cyrus, 401 B.C.'
+- !lcsh 'Iran -- History -- To 640'
+title: 'Els Deu Mil
+
+  And Vida D''artaxerxes, Per Plutarc'
+url: http://www.gutenberg.org/ebooks/19664
