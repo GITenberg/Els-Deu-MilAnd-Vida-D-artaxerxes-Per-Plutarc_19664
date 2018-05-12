@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/342
     wikipedia: http://en.wikipedia.org/wiki/Plutarch
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19664#Els-Deu-MilAnd-Vida-D-artaxerxes-Per-Plutarc
 gutenberg_issued: '2006-10-30'
 gutenberg_type: Text
 identifiers:
